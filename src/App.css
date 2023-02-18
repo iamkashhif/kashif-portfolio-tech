@@ -1,0 +1,12 @@
+@media screen and (max-width: 600px) {
+  .nav-logo {
+    position: fixed;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 9px 0 9px 10px;
+    /* background-color: black; */
+    z-index: 999;
+  }
+}
